@@ -5,7 +5,8 @@ Prototype for an intuitive mobile application for courses at Sheridan College de
 
 Figma URL : [Version 1](https://www.figma.com/file/6OT6BYPEWNN6AVk8uMqAux/Untitled?type=design&node-id=0%3A1&mode=design&t=5v9f0S73LFPs4nOa-1) to see my first ever version of my prototype.
 
-Figma URL : [Version 2]() to see my second and improved version of my prototype.
+Figma URL : [Version 2](https://www.figma.com/file/apzW6Z99Tji5TrjWRLTkpS/Assignment-2?type=design&node-id=0%3A1&mode=design&t=nPVg6xyvAN1W2BFU-1![image](https://github.com/werbowym-sheridan/Sheridan-Courses/assets/95830333/66686e6a-af18-4c9b-bd6e-4aeec9877575)
+) to see my second and improved version of my prototype.
 
 Youtube URL : [Version 2 of Prototype]()
 
