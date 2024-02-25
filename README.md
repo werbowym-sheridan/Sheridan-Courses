@@ -26,3 +26,4 @@ This is a Figma prototype based on a Course App for Sheridan students. The appli
 5. Support System: Offer a way for interested students to speak with a more experienced personnel such as an alumni, an upper year student, a tutor, or even maybe a professor in order to learn more about a specific course at Sheridan.
 
 ## Initial Prototype
+![Init](./initial-prototype.png)
