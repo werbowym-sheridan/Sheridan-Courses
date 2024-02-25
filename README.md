@@ -13,7 +13,7 @@ Youtube URL : [Version 2 of Prototype]()
 
 This is a Figma prototype based on a Course App for Sheridan students. The application will allow students to see and keep track of their course list and course assignments. Not only that but the prototype also has a proposed built in chat option which will allow students to communicate with their classmates or professors if they encounter any problem with their courses. Each course also displays all it's assignments that take place during the course length.
 
-# Top five new desirable functionlities that I have not seen before in any other apps
+# Top five new desirable functionalities that I have not seen before in any other apps
 
 1. Private Messaging Options: So far none of the applications I have explored feature user to user private direct messaging functionality. This can be useful when you feel the need to directly speak with someone you met in a group chat for a mutual course.
    
@@ -27,3 +27,7 @@ This is a Figma prototype based on a Course App for Sheridan students. The appli
 
 ## Initial Prototype
 ![Init](./initial-prototype.png)
+
+## Second Prototype
+
+![Second Prototype](./second-prototype.png)
