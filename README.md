@@ -32,3 +32,7 @@ This is a Figma prototype based on a Course App for Sheridan students. The appli
 ## Second Prototype
 
 ![Second Prototype](./second-prototype.png)
+
+## Final Prototype
+
+![Final Prototype](./FinalPrototype.png)
